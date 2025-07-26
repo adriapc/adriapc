@@ -14,10 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## 📬 Get in Touch
+## 📂 Projects
+
+- [📩 AI Gmail Sender](https://https://github.com/adriapc/ai-gmail-sender) — Automated sending emails with OpenAI API, generating the subject and the body of the email from the user prompt.
+
+## 📥 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A0-pallej%C3%A0-06206835a/)
-- ✉️ [Email](mailto:adriapc07@gmail.com)
+- 📧 [Email](mailto:adriapc07@gmail.com)
 
 ###
 
