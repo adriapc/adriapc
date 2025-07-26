@@ -20,7 +20,7 @@
 
 ## 📥 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A0-pallej%C3%A0-06206835a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A0-pallej%C3%A0/)
 - 📧 [Email](mailto:adriapc07@gmail.com)
 
 ###
