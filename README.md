@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 
-- [📩 AI Gmail Sender](https://https://github.com/adriapc/ai-gmail-sender) — Automated sending emails with OpenAI API, generating the subject and the body of the email from the user prompt.
+- [📩 AI Gmail Sender](https://github.com/adriapc/ai-gmail-sender) — Automated sending emails with OpenAI API, generating the subject and the body of the email from the user prompt.
 
 ## 📥 Get in Touch
 
