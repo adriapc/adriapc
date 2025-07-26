@@ -17,7 +17,7 @@
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A0-pallej%C3%A0-06206835a/)
-- ✉️ Email: adriapc07@gmail.com
+- ✉️ [Email](mailto:adriapc07@gmail.com)
 
 ###
 
