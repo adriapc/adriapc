@@ -17,6 +17,7 @@
 ## 📂 Projects
 
 - [📩 AI Gmail Sender](https://github.com/adriapc/ai-gmail-sender) — Automated sending emails with OpenAI API, generating the subject and the body of the email from the user prompt.
+- [🤖 Music & AI Discord Bot](https://github.com/adriapc/botify-discord) — Botify is an AI-powered bot, and can play music or you can chat with it.
 
 ## 📥 Get in Touch
 
