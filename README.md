@@ -15,7 +15,7 @@
 </div>
 
 ## 📂 Projects
-- [⚽ Football Data ETL Pipeline](https://github.com/adriapc/football-etl-pipeline) — End-to-end football data ETL pipeline that extracts match data from a REST API, transforms it with Python, and loads it into PostgreSQL for analysis
+- [⚽ Football Data ETL Pipeline](https://github.com/adriapc/football-etl-pipeline) — End-to-end football data ETL pipeline that extracts match data from a REST API, transforms it with Python, and loads it into PostgreSQL for analysis.
 - [📩 AI Gmail Sender](https://github.com/adriapc/ai-gmail-sender) — Automated sending emails with OpenAI API, generating the subject and the body of the email from the user prompt.
 - [🤖 Music & AI Discord Bot](https://github.com/adriapc/botify-discord) — Botify is an AI-powered bot, and can play music or you can chat with it.
 
