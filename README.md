@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adrià!
 
-🎓 I'm a Computer Engineering student passionate about technology, problem solving, and automation.  
+🎓 I'm a Computer Engineering student passionate about automation, data and cloud technologies.  
 📚 Always learning and exploring new tools to improve my workflow and development practices.
 
 ## 🛠️ Tech Stack
